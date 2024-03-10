@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ALED7709ATR
+D 4-Channels 200mA LED driver with boost controller for LCD panels backlight
+K
+F https://www.st.com/resource/en/datasheet/aled7709.pdf
+$ENDCMP
+#
+#End Doc Library
