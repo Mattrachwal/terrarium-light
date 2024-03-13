@@ -19,3 +19,6 @@ CH340C
 
 UMH3N
 https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/digital/umh3ntn-e.pdf
+
+TPS61169DCKR
+https://www.ti.com/product/TPS61169
