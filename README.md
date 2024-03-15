@@ -22,3 +22,7 @@ https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/digita
 
 TPS61169DCKR
 https://www.ti.com/product/TPS61169
+
+LDO voltage regulator
+
+https://www.lcsc.com/datasheet/lcsc_datasheet_1811131510_MICRONE-Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.pdf
