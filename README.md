@@ -26,3 +26,9 @@ https://www.ti.com/product/TPS61169
 LDO voltage regulator
 
 https://www.lcsc.com/datasheet/lcsc_datasheet_1811131510_MICRONE-Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.pdf
+
+This is the typical LDO used ona lot of dev boards
+using the TO-263 for thermal reason, its overkill but i dont know how hot the whole board will be with the LEDS
+
+HGSEMI LM1117S-3.3/TR
+https://www.lcsc.com/datasheet/lcsc_datasheet_2209211201_HGSEMI-LM1117S-3-3-TR_C498315.pdf
