@@ -4628,6 +4628,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 59.69) (xy 40.64 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d75e47e-0235-4052-a9a8-c99708cd6898")
+	)
+	(wire
+		(pts
 			(xy 52.07 232.41) (xy 60.96 232.41)
 		)
 		(stroke
@@ -4908,13 +4918,23 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 229.87) (xy 124.46 229.87)
+			(xy 115.57 229.87) (xy 135.89 229.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b7df402f-ab69-4d24-94f9-58bac20f7ce0")
+	)
+	(wire
+		(pts
+			(xy 30.48 54.61) (xy 40.64 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b93f592f-42a3-46c8-a317-b21c5bcb54b3")
 	)
 	(wire
 		(pts
@@ -5253,6 +5273,17 @@
 		)
 		(uuid "8c93bb8b-c798-4552-b08f-db0851a64032")
 	)
+	(label "ESP_32_TX"
+		(at 71.12 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c50bc632-c764-4a40-b46d-b7f90f6da6e7")
+	)
 	(label "~{DTR}"
 		(at 148.59 231.14 0)
 		(fields_autoplaced yes)
@@ -5263,6 +5294,28 @@
 			(justify left bottom)
 		)
 		(uuid "dbf785d6-0801-4508-80af-2f5f21a36dc1")
+	)
+	(label "ESP_32_TX"
+		(at 120.65 238.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e0db72f4-33b4-4548-9361-a1515d5ea80a")
+	)
+	(label "ESP_32_RX"
+		(at 120.65 236.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e155bde9-a425-42d6-a11b-4ee0e1e6724d")
 	)
 	(label "ESP_EN"
 		(at 163.83 226.06 0)
@@ -5275,6 +5328,17 @@
 		)
 		(uuid "eb4eb46b-73fe-4419-bcca-02cf188bb5b5")
 	)
+	(label "ESP_EN"
+		(at 30.48 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ebc9a248-da25-4abd-9625-10fea574f779")
+	)
 	(label "D-"
 		(at 96.52 246.38 0)
 		(fields_autoplaced yes)
@@ -5285,6 +5349,28 @@
 			(justify left bottom)
 		)
 		(uuid "f17822e4-5054-4628-9b25-4c5fc545b187")
+	)
+	(label "ESP_32_RX"
+		(at 71.12 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f25937d8-2a95-4d9e-aab5-f60915a821d6")
+	)
+	(label "ESP_IO0"
+		(at 30.48 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f27aa4db-5fcc-4f92-b2c5-7f4a30a6c98c")
 	)
 	(symbol
 		(lib_id "Device:LED")
@@ -7555,6 +7641,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 55.88 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "71a2d6bf-42da-4adc-a27e-eaaddd41d710")
+		(property "Reference" "#PWR026"
+			(at 55.88 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 55.88 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 55.88 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1290fda6-47ff-4c5d-944e-9af2d6178dfb")
+		)
+		(instances
+			(project "terrarium-light"
+				(path "/15920752-a750-4c65-817e-4525ac22cfdb"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:Earth")
 		(at 228.6 129.54 0)
 		(unit 1)
@@ -9285,7 +9437,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 124.46 229.87 0)
+		(at 135.89 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9294,7 +9446,7 @@
 		(fields_autoplaced yes)
 		(uuid "cbbe070a-9abc-4c19-a94a-9bbc0f56cf19")
 		(property "Reference" "#PWR02"
-			(at 124.46 236.22 0)
+			(at 135.89 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9303,7 +9455,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 124.46 234.95 0)
+			(at 135.89 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9311,7 +9463,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 229.87 0)
+			(at 135.89 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9320,7 +9472,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 229.87 0)
+			(at 135.89 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9329,7 +9481,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 124.46 229.87 0)
+			(at 135.89 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9344,6 +9496,72 @@
 			(project "terrarium-light"
 				(path "/15920752-a750-4c65-817e-4525ac22cfdb"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 55.88 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc39c3aa-35e5-4047-8a38-a970cd781af5")
+		(property "Reference" "#PWR025"
+			(at 55.88 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 55.88 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 55.88 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0b9f0e5f-1c64-4df8-8cb9-71614b8d98b7")
+		)
+		(instances
+			(project "terrarium-light"
+				(path "/15920752-a750-4c65-817e-4525ac22cfdb"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
