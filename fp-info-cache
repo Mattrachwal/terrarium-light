@@ -1,4 +1,4 @@
-23040065723699552
+23041776456430730
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62782,6 +62782,13 @@ LED RGB NeoPixel PLCC-4 5050
 0
 4
 4
+LED_SMD
+LED_SPMWHD32AMH0XAR0PR
+
+
+0
+4
+2
 LED_SMD
 LED_WS2812B-2020_PLCC4_2.0x2.0mm
 2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
