@@ -32,3 +32,16 @@ using the TO-263 for thermal reason, its overkill but i dont know how hot the wh
 
 HGSEMI LM1117S-3.3/TR
 https://www.lcsc.com/datasheet/lcsc_datasheet_2209211201_HGSEMI-LM1117S-3-3-TR_C498315.pdf
+
+NSR0240P2
+https://www.onsemi.com/pdf/datasheet/nsr0240p2-d.pdf
+
+BAS40
+
+https://www.mouser.com/ProductDetail/Diotec-Semiconductor/SK16?qs=OlC7AqGiEDm3ojchOaQs2w%3D%3D
+
+VLS6045EX-100M-H
+
+GRT21BR61H475ME13L
+
+USB C gotta pick party
