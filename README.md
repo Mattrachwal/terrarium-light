@@ -40,8 +40,48 @@ BAS40
 
 https://www.mouser.com/ProductDetail/Diotec-Semiconductor/SK16?qs=OlC7AqGiEDm3ojchOaQs2w%3D%3D
 
+L coil thing
 VLS6045EX-100M-H
 
+USB C gotta pick party
+
+https://www.lcsc.com/datasheet/lcsc_datasheet_2211161000_HCTL-HC-TYPE-C-16P-01A_C2894897.pdf
+
+CAPACITORS
+
+100nf = 0.1uF
+https://www.digikey.com/en/products/detail/yageo/CC0805MRX7R9BB104/5884281?s=N4IgTCBcDaIMJwAwA5EFYCyAlAGgdiwE4AhYgRkQBYQBdAXyA
+CC0805MRX7R9BB104
+https://jlcpcb.com/partdetail/Yageo-CC0805MRX7R9BB104/C5182436
+
+4.7uf
 GRT21BR61H475ME13L
 
-USB C gotta pick party
+10uf
+CC0805MKX5R5BB106
+https://jlcpcb.com/partdetail/Yageo-CC0805MKX5R5BB106/C527238
+https://www.digikey.com/en/products/detail/yageo/CC0805MKX5R5BB106/2833626?s=N4IgTCBcDaIMJwAwA5EFYCyBpAGmgSmgEJECMiAbCALoC%2BQA
+
+22uF
+https://jlcpcb.com/partdetail/Tdk-C2012X5R1C226MT000E/C329947
+https://www.digikey.com/en/products/detail/tdk-corporation/C2012X5R1C226M125AC/2733082?s=N4IgTCBcDaIMJgAwEYwA0CsAlZCwDYBZAFUTIFEQBdAXyA
+
+1uf
+GCM219R71C105KA37D
+https://www.digikey.com/en/products/detail/murata-electronics/GCM219R71C105KA37D/2592214?s=N4IgTCBcDaIOIGECyYCMBOASgdlQ1ADAKwDSAggMzYAiIAugL5A
+https://jlcpcb.com/partdetail/2259442-GCM219R71C105KA37D/C2167390
+
+RESISTOR
+5.1k
+RC0805FR-075K1L
+https://jlcpcb.com/partdetail/Yageo-RC0805FR075K1L/C84375
+RC0805FR-075K1L
+
+2ohm
+RC0805JR-072RL
+https://jlcpcb.com/parts/componentSearch?searchTxt=RC0805JR-072RL
+https://www.digikey.com/en/products/detail/yageo/RC0805JR-072RL/728267
+
+ferriteBead
+
+MI0805K400R-10
