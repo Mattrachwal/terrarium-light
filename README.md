@@ -85,3 +85,5 @@ https://www.digikey.com/en/products/detail/yageo/RC0805JR-072RL/728267
 ferriteBead
 
 MI0805K400R-10
+
+https://jlcpcb.com/partdetail/EspressifSystems-ESP32_S3_MINI_1N8/C2913206
