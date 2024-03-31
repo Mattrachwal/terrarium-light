@@ -592,7 +592,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "04a73ec2-5be2-4a0c-8bee-f07ee92d0e37")
-		(at 68 87 -90)
+		(at 78 84 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
@@ -802,7 +802,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "058f1fba-4df7-45c2-b758-8dbed2da43ee")
-		(at 119 130.5)
+		(at 110 140)
 		(property "Reference" "D18"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -1207,7 +1207,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "2422be41-09c5-463c-bd7e-367edc036155")
-		(at 82.5 131.625)
+		(at 95 139.5)
 		(property "Reference" "D8"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -1402,7 +1402,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-363_SC-70-6"
 		(layer "F.Cu")
 		(uuid "2c4b6bf5-d346-4878-93b6-dc71b2fb7a67")
-		(at 81.5 53.5)
+		(at 89.05 62.35)
 		(descr "SOT-363, SC-70-6")
 		(tags "SOT-363 SC-70-6")
 		(property "Reference" "Q1"
@@ -1676,7 +1676,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "3108a313-13a7-4a5b-924c-2436ad3a8b04")
-		(at 57 131.375)
+		(at 60 124.875)
 		(property "Reference" "D4"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -1871,9 +1871,9 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "311ed1ff-f9e7-47ab-8879-fb016cb527ed")
-		(at 132 100.5)
+		(at 140 80.5)
 		(property "Reference" "D26"
-			(at 0 -2.5 0)
+			(at 0 -2.375 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "c05eee13-72d4-490b-ad46-30a16120b0ad")
@@ -2066,7 +2066,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "34df3cec-aa6c-4d30-ab87-84777fdfb19f")
-		(at 69 99.5)
+		(at 78 98.125)
 		(property "Reference" "D12"
 			(at 0 -2.375 0)
 			(unlocked yes)
@@ -2261,7 +2261,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "37a281f6-d422-4641-9edd-33e7288a50af")
-		(at 63 89 180)
+		(at 73 86 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C4"
@@ -2471,7 +2471,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "3db4faa7-d3d5-49ed-a7c7-d9b67efe9380")
-		(at 119 96.5)
+		(at 119 103.875)
 		(property "Reference" "D15"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -2666,7 +2666,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "3dd11ab1-832b-4a8c-9913-8ba825ca3e9e")
-		(at 57.5 120.875)
+		(at 60 109.875)
 		(property "Reference" "D3"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -2861,7 +2861,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "47c50add-7552-4d44-a788-18f64e3890d7")
-		(at 120 117.5)
+		(at 120 116.125)
 		(property "Reference" "D17"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -3056,7 +3056,7 @@
 	(footprint "Diode_SMD:D_SMA_Handsoldering"
 		(layer "F.Cu")
 		(uuid "4a60f181-1823-4f7e-a294-24910a1144e0")
-		(at 124 83 90)
+		(at 114 80 90)
 		(descr "Diode SMA (DO-214AC) Handsoldering")
 		(tags "Diode SMA (DO-214AC) Handsoldering")
 		(property "Reference" "D14"
@@ -4030,7 +4030,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "4ff42023-99b7-4081-8ecb-f32a3ece4a7a")
-		(at 57 93.5)
+		(at 60 80.5)
 		(property "Reference" "D1"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -4225,7 +4225,7 @@
 	(footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "55736cab-3152-4cc8-a0d0-09d4d4823ea9")
-		(at 97.025 71.825)
+		(at 99.525 71.825)
 		(descr "SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U1"
@@ -4619,7 +4619,7 @@
 	(footprint "Inductor_SMD:L_TDK_VLS6045EX_VLS6045AF"
 		(layer "F.Cu")
 		(uuid "60f2d42a-80e5-4ae8-8d46-dccccfb4b5c1")
-		(at 70 78 180)
+		(at 80 75 180)
 		(descr "Inductor,TDK, VLS-6045, 6x6x4.5mm, https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls6045ex_en.pdf")
 		(tags "inductor TDK VLS SMD VLS6045EF VLS6045AF")
 		(property "Reference" "L1"
@@ -4816,7 +4816,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "69ec6daa-58d7-430f-b4da-6811e87ee86a")
-		(at 123 89 180)
+		(at 113 86 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
@@ -5026,7 +5026,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering"
 		(layer "F.Cu")
 		(uuid "6e731f76-84d8-48fd-9dca-a0b6a18a921b")
-		(at 69 83)
+		(at 79 80)
 		(descr "SOT-353, SC-70-5, Handsoldering")
 		(tags "SOT-353 SC-70-5 Handsoldering")
 		(property "Reference" "U2"
@@ -5291,7 +5291,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "71abf9c7-7240-4e89-91f3-59952a996669")
-		(at 144 100.125)
+		(at 140 91)
 		(property "Reference" "D25"
 			(at 0 -2.375 0)
 			(unlocked yes)
@@ -5486,7 +5486,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "7d35db78-3dd8-430c-9816-dd3623cff9ce")
-		(at 82.5 142.5)
+		(at 80 139.875)
 		(property "Reference" "D7"
 			(at 0 -2.375 0)
 			(unlocked yes)
@@ -5681,7 +5681,7 @@
 	(footprint "Diode_SMD:D_SMA_Handsoldering"
 		(layer "F.Cu")
 		(uuid "7f06023e-029c-48bc-9500-9876fa782dbb")
-		(at 64 83 90)
+		(at 74 80 90)
 		(descr "Diode SMA (DO-214AC) Handsoldering")
 		(tags "Diode SMA (DO-214AC) Handsoldering")
 		(property "Reference" "D13"
@@ -5963,7 +5963,7 @@
 	(footprint "RF_Module:ESP32-S2-MINI-1"
 		(layer "F.Cu")
 		(uuid "7f59e7f7-9aa6-42ed-a6db-961a90fad696")
-		(at 60.45 57.7 90)
+		(at 60.45 61.85 90)
 		(descr "2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf")
 		(tags "2.4 GHz Wi-Fi Bluetooth external antenna espressif  20*15.4mm")
 		(property "Reference" "U6"
@@ -7083,7 +7083,7 @@
 			)
 			(polygon
 				(pts
-					(xy 55.2 35) (xy 55.2 80.4) (xy 35.7 80.4) (xy 35.7 35)
+					(xy 55.2 39.15) (xy 55.2 84.55) (xy 35.7 84.55) (xy 35.7 39.15)
 				)
 			)
 		)
@@ -7102,7 +7102,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "8727ad78-6bb1-498f-ac02-d9d4f1c4be26")
-		(at 81.5 111.5)
+		(at 94 110.125)
 		(property "Reference" "D10"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -7297,7 +7297,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "8be80bb1-ff69-41c9-ad8f-4dbfd1bc67d5")
-		(at 57.5 109.375)
+		(at 58 98.125)
 		(property "Reference" "D2"
 			(at 0 -2.625 0)
 			(unlocked yes)
@@ -7492,7 +7492,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "8c33d8e8-842b-4c83-9763-dfc6a36ca5b3")
-		(at 133 122.125)
+		(at 131 138.875)
 		(property "Reference" "D20"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -7897,7 +7897,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "a0a1c7d5-36bc-4d8f-8353-94b84b76829a")
-		(at 81 121)
+		(at 95 124.125)
 		(property "Reference" "D9"
 			(at 0 -2.375 0)
 			(unlocked yes)
@@ -8092,7 +8092,7 @@
 	(footprint "Inductor_SMD:L_TDK_VLS6045EX_VLS6045AF"
 		(layer "F.Cu")
 		(uuid "a12e6e70-fdd0-4aae-a8c6-c2a97a58a982")
-		(at 130 78 180)
+		(at 120 75 180)
 		(descr "Inductor,TDK, VLS-6045, 6x6x4.5mm, https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls6045ex_en.pdf")
 		(tags "inductor TDK VLS SMD VLS6045EF VLS6045AF")
 		(property "Reference" "L2"
@@ -8289,7 +8289,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "a343874b-2c79-450d-bf06-5f0aa3300b51")
-		(at 134 83)
+		(at 124 80)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C1"
@@ -8499,7 +8499,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "a8c88ef7-8b23-48a3-8825-f1ac7634593f")
-		(at 143 141.5)
+		(at 142 142.5)
 		(property "Reference" "D21"
 			(at 0 -2.375 0)
 			(unlocked yes)
@@ -8904,7 +8904,7 @@
 	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "b35fdd7d-8791-4f11-9327-61316fcd0fb5")
-		(at 128 87 -90)
+		(at 118 84 -90)
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
@@ -9324,7 +9324,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "c2f46db7-58b4-4c7f-a37b-fc136b3a7508")
-		(at 144 117.5)
+		(at 140 108.375)
 		(property "Reference" "D23"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -9729,7 +9729,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "d499dd24-2b82-4e87-9d58-3cb20a55dc8a")
-		(at 118.5 107)
+		(at 129 103.875)
 		(property "Reference" "D16"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -9924,7 +9924,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "d713ac73-d54e-4181-864e-cd5c991a294a")
-		(at 144 128.5)
+		(at 140 119.375)
 		(property "Reference" "D22"
 			(at 0 -2.375 0)
 			(unlocked yes)
@@ -10119,7 +10119,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "d891cf86-2491-4c7c-83bc-a92bc8228968")
-		(at 69.5 121.125)
+		(at 70 140)
 		(property "Reference" "D6"
 			(at 0 -2.875 0)
 			(unlocked yes)
@@ -10524,7 +10524,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "df517f27-54e3-4158-a5f2-dafd6136748e")
-		(at 144 110.125)
+		(at 140 101)
 		(property "Reference" "D24"
 			(at 0 -2.375 0)
 			(unlocked yes)
@@ -10719,7 +10719,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "e1fbd451-1f11-41e0-8b0e-cb361e8cf200")
-		(at 57 143.375)
+		(at 59.5 138.875)
 		(property "Reference" "D5"
 			(at 0 -2.5 0)
 			(unlocked yes)
@@ -10914,7 +10914,7 @@
 	(footprint "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering"
 		(layer "F.Cu")
 		(uuid "e2814f50-0e2a-422b-97a5-de6fa73285b8")
-		(at 129 83)
+		(at 119 80)
 		(descr "SOT-353, SC-70-5, Handsoldering")
 		(tags "SOT-353 SC-70-5 Handsoldering")
 		(property "Reference" "U3"
@@ -11389,7 +11389,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "e791b3d2-cd45-4d12-91d1-43c3c5db7cec")
-		(at 82 102)
+		(at 78 118.125)
 		(property "Reference" "D11"
 			(at 0 -2.375 0)
 			(unlocked yes)
@@ -11584,7 +11584,7 @@
 	(footprint "Package_TO_SOT_SMD:TO-263-3_TabPin2"
 		(layer "F.Cu")
 		(uuid "eadb6423-cc60-411b-9f39-906262cc62cc")
-		(at 100.775 95.5 -90)
+		(at 100 93 -90)
 		(descr "TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/")
 		(tags "D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404")
 		(property "Reference" "U4"
@@ -12018,7 +12018,7 @@
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "fa1bf410-8f52-4419-ac70-ea06ccd7661b")
-		(at 74 83)
+		(at 84 80)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
@@ -12228,7 +12228,7 @@
 	(footprint "LED_SMD:LED_SPMWHD32AMH0XAR0PR"
 		(layer "F.Cu")
 		(uuid "fe7722dd-9310-4064-a999-102e65c056f8")
-		(at 119 142)
+		(at 120 139.875)
 		(property "Reference" "D19"
 			(at 0 -2.5 0)
 			(unlocked yes)
