@@ -87,3 +87,5 @@ ferriteBead
 MI0805K400R-10
 
 https://jlcpcb.com/partdetail/EspressifSystems-ESP32_S3_MINI_1N8/C2913206
+
+dedcoupling/bipass capacitors. at least .1uF VCC PIN ON ALL VCC PINS
