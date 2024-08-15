@@ -4995,12 +4995,6 @@
 		(uuid "4efddf6d-43b9-4340-acb3-6be3f551f009")
 	)
 	(junction
-		(at 111.76 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "63e7b2f1-263e-45ee-9117-552534e7789f")
-	)
-	(junction
 		(at 271.78 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5279,16 +5273,6 @@
 			(type default)
 		)
 		(uuid "1cc821c1-a503-4b81-af55-a7eed9a4e692")
-	)
-	(wire
-		(pts
-			(xy 111.76 107.95) (xy 121.92 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "220d2e8c-acff-4080-a7e2-c24bcb59455e")
 	)
 	(wire
 		(pts
@@ -5589,16 +5573,6 @@
 			(type default)
 		)
 		(uuid "7036c335-fee4-4b0d-86db-81d54d066b5c")
-	)
-	(wire
-		(pts
-			(xy 110.49 107.95) (xy 111.76 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "721e84fd-7a49-440d-add2-f89f94b03796")
 	)
 	(wire
 		(pts
@@ -7839,7 +7813,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 111.76 110.49 180)
+		(at 113.03 115.57 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7848,25 +7822,23 @@
 		(fields_autoplaced yes)
 		(uuid "29d3809f-1a33-495f-b5b4-bde0bfb90af3")
 		(property "Reference" "C7"
-			(at 114.3 109.2135 0)
+			(at 113.0363 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "0.1uF "
-			(at 114.3 111.7535 0)
+			(at 113.0363 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 111.76 110.49 0)
+			(at 113.03 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7875,7 +7847,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 110.49 0)
+			(at 113.03 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7884,7 +7856,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 111.76 110.49 0)
+			(at 113.03 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8296,7 +8268,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 110.49 107.95 90)
+		(at 121.92 107.95 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8305,7 +8277,7 @@
 		(fields_autoplaced yes)
 		(uuid "43d1cec0-8a31-4fd6-9583-3fae18233839")
 		(property "Reference" "#PWR029"
-			(at 114.3 107.95 0)
+			(at 125.73 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8314,7 +8286,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 106.68 107.9499 90)
+			(at 118.11 107.9499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8323,7 +8295,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 110.49 107.95 0)
+			(at 121.92 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8332,7 +8304,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 107.95 0)
+			(at 121.92 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8341,7 +8313,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 110.49 107.95 0)
+			(at 121.92 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11063,72 +11035,6 @@
 			(project "terrarium-light"
 				(path "/15920752-a750-4c65-817e-4525ac22cfdb"
 					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 111.76 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b4a274c5-2493-4cb9-8908-b360ec6249d8")
-		(property "Reference" "#PWR036"
-			(at 111.76 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 111.76 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 111.76 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 111.76 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 111.76 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "66fb7fe2-0978-4708-8cfd-9ac59265a375")
-		)
-		(instances
-			(project "terrarium-light"
-				(path "/15920752-a750-4c65-817e-4525ac22cfdb"
-					(reference "#PWR036")
 					(unit 1)
 				)
 			)
