@@ -5113,8 +5113,24 @@
 		(uuid "09cd511d-d7f0-4ba8-a8f2-ee61cd09b731")
 	)
 	(no_connect
+		(at 40.64 77.47)
+		(uuid "21b50a60-3e23-4873-b290-a12059f9a3b4")
+	)
+	(no_connect
+		(at 40.64 82.55)
+		(uuid "3ab2462c-beb7-47a1-8491-18b729d48d05")
+	)
+	(no_connect
 		(at 120.65 251.46)
 		(uuid "46e5a78e-a0cd-4583-b3d0-daec61a5ab80")
+	)
+	(no_connect
+		(at 40.64 87.63)
+		(uuid "539bda73-d5d6-4952-8476-c974fe0b77d5")
+	)
+	(no_connect
+		(at 40.64 85.09)
+		(uuid "5ac8952a-0ac2-458f-ac99-fb04e129c5d6")
 	)
 	(no_connect
 		(at 120.65 248.92)
@@ -5133,12 +5149,20 @@
 		(uuid "a222a642-889d-4595-993d-08d9c912658c")
 	)
 	(no_connect
+		(at 40.64 80.01)
+		(uuid "b35cf443-adc7-4d3c-9904-b41fc4633e81")
+	)
+	(no_connect
 		(at 52.07 257.81)
 		(uuid "b927db95-6725-46cd-b3e1-6254bacac2e1")
 	)
 	(no_connect
 		(at 120.65 246.38)
 		(uuid "e9bde11d-ab85-41c9-b2d9-8eccfbd2dfdc")
+	)
+	(no_connect
+		(at 40.64 74.93)
+		(uuid "ffe87202-cc49-4a47-bbdb-153bbdc9db16")
 	)
 	(wire
 		(pts
@@ -5249,6 +5273,16 @@
 			(type default)
 		)
 		(uuid "14dad806-1b82-48a6-a6b9-2040be005484")
+	)
+	(wire
+		(pts
+			(xy 71.12 67.31) (xy 73.66 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16533acb-988f-4b28-9266-e777c6c662b1")
 	)
 	(wire
 		(pts
@@ -5719,6 +5753,16 @@
 			(type default)
 		)
 		(uuid "8522d960-4c34-4bd1-aaad-6460ec993fa8")
+	)
+	(wire
+		(pts
+			(xy 71.12 69.85) (xy 73.66 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87359779-e607-4514-92c4-b5a63e006e77")
 	)
 	(wire
 		(pts
@@ -6325,6 +6369,28 @@
 		)
 		(uuid "2e8fcc41-caa4-4aba-88f2-481309c36913")
 	)
+	(label "EncoderB"
+		(at 97.79 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b7c431e-3d73-4e5e-a63c-822518a4c690")
+	)
+	(label "EncoderA"
+		(at 93.98 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "40ab804e-225a-404d-9a42-aa7ff26e096c")
+	)
 	(label "D+"
 		(at 55.88 246.38 0)
 		(fields_autoplaced yes)
@@ -6368,6 +6434,17 @@
 			(justify left bottom)
 		)
 		(uuid "7ef6328d-bd60-4256-8e90-93b4640b77c6")
+	)
+	(label "EncoderButton"
+		(at 109.22 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8aefa52b-4840-4d52-8b8f-e5923bbe0ef9")
 	)
 	(label "D+"
 		(at 96.52 243.84 0)
@@ -7058,7 +7135,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF "
+		(property "Value" "0.1uF"
 			(at 105.4163 226.06 90)
 			(effects
 				(font
@@ -7856,7 +7933,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF "
+		(property "Value" "0.1uF"
 			(at 114.3 111.7535 0)
 			(effects
 				(font
@@ -12510,7 +12587,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF "
+		(property "Value" "0.1uF"
 			(at 113.0363 226.06 90)
 			(effects
 				(font
@@ -12579,7 +12656,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF "
+		(property "Value" "0.1uF"
 			(at 184.15 58.4135 0)
 			(effects
 				(font
